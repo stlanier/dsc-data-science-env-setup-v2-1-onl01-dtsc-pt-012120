@@ -1,4 +1,4 @@
-
+#stlanier completed this lesson on local drive.
 # Setting up a Professional Data Science Environment - Setup
 
 ## Introduction
